@@ -298,3 +298,12 @@ footer p {
   color: #c3c63b;
   text-align: center;
 }
+@media (max-width: 850px) {
+  footer {
+    border-radius: 20px;
+  }
+
+  footer p {
+    width: 60%;
+  }
+}
